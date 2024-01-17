@@ -40,29 +40,25 @@ int main() {
 }   
 
 void inputTitle(char* &title) {
-    char ch;
+    int curSz = 0;
+    int allocated_Sz = 1;
 
-    int sz = 1;
-    title = new char[1];
+    title = new char[allocated_Sz];
     title[0] = '\0';
-
+    
+    char ch;
     while ((ch = cin.get()) != '\n') {
-        sz ++;
-        char *ptr = new char[sz];
-        ptr[sz - 1] = '\0';
-
-        char* pos = ptr;
-        char* o = title;
-
-        while (*title != '\0') {
-            *ptr = *title;
-            ptr++;
-            title++;
+        curSz ++;
+        if (curSz == allocated_Sz) {
+            allocated_Sz *= 1;
+            char* newTitle = new char[allocated_Sz];
+            strcpy(newTitle, title);
+            delete[] title;
+            title = newTitle;
         }
 
-        *ptr = ch;
-        delete[] o;
-        title = pos;
+        title[curSz - 1] = ch;
+        title[curSz] = '\0';
     }
 } 
 
