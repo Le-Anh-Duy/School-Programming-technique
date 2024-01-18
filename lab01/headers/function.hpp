@@ -1,5 +1,3 @@
-#include <iostream>
-
 struct interval {
     int l, r;
 };
