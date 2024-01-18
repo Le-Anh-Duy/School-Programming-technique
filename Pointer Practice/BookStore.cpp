@@ -50,7 +50,7 @@ void inputTitle(char* &title) {
     while ((ch = cin.get()) != '\n') {
         curSz ++;
         if (curSz == allocated_Sz) {
-            allocated_Sz *= 1;
+            allocated_Sz *= 2;
             char* newTitle = new char[allocated_Sz];
             strcpy(newTitle, title);
             delete[] title;
