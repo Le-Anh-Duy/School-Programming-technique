@@ -2,6 +2,6 @@
 #include "headers/First_Header_File.h"
 
 int main() {
-    std::cout << add(12, 5);
+    std::cout << add(2, 5);
     return 0;
 }
