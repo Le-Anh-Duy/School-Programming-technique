@@ -20,7 +20,7 @@ void clearHeap(Book* bookStore, int n);
 
 int main() { 
     int n;
-    Book *bookStore;
+    Book* bookStore;
     inputStore(bookStore, n);
     ouputStore(bookStore, n);
     clearHeap(bookStore, n);
