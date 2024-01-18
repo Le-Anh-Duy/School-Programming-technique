@@ -38,31 +38,3 @@ int main() {
 
     return 0;
 }   
-
-void inputTitle(char* &title) {
-    char ch;
-
-    int sz = 1;
-    title = new char[1];
-    title[0] = '\0';
-
-    while ((ch = cin.get()) != '\n') {
-        sz ++;
-        char *ptr = new char[sz];
-        ptr[sz - 1] = '\0';
-
-        char* pos = ptr;
-        char* o = title;
-
-        while (*title != '\0') {
-            *ptr = *title;
-            ptr++;
-            title++;
-        }
-
-        *ptr = ch;
-        delete[] o;
-        title = pos;
-    }
-} 
-
