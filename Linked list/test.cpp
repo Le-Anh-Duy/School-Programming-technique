@@ -7,12 +7,20 @@ struct node {
     node* pNxt;
 };
 
-void inputStore(node* pStore) {
+void inputStore(node* &pStore) {
     node* cur = pStore;
 
     int inp;
     while (cin >> inp) {
         if (inp == 0) break;
+        if (cur == NULL) {
+            cur = new node;
+            cur->val = inp;
+            cur->pNxt = nullptr;
+            pStore = cur;
+            continue;
+        }
+
         cur->pNxt = new node;
         cur = cur->pNxt;
 
@@ -22,19 +30,18 @@ void inputStore(node* pStore) {
 }
 
 void displayStore(node* pStore) {
-    while (pStore->pNxt) {
-        pStore = pStore->pNxt;
+    while (pStore) {
         cout << pStore->val << ' ';
+        pStore = pStore->pNxt;
     }
     cout << '\n';
 }
 
-void deleteStore(node* store) {
-    node *cur = store;
-    while (cur->pNxt) {
-        node* tmp = cur;
-        cur = cur->pNxt;
-        delete(tmp);
+void deleteStore(node* pStore) {
+    while (pStore != nullptr) {
+        node* tmp = pStore->pNxt;
+        delete(pStore);
+        pStore = tmp;
     }
 }
 
