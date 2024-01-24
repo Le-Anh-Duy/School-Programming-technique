@@ -41,7 +41,7 @@ void deleteStore(node* store) {
 
 int main() {
 
-    node* store = new node;
+    node* store = NULL;
     inputStore(store);
     displayStore(store);
     deleteStore(store);
