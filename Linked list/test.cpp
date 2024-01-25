@@ -38,6 +38,7 @@ void displayStore(node* pStore) {
 }
 
 void deleteStore(node* pStore) {
+    if (!pStore) return;
     while (pStore != nullptr) {
         node* tmp = pStore->pNxt;
         delete(pStore);
