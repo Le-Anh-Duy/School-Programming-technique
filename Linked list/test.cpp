@@ -11,7 +11,9 @@ void inputStore(node* &pStore);
 void displayStore(node* pStore);
 void deleteStore(node* pStore);
 void insertXafterK(node *pStore, int x, int k);
-void insertXbeforeK(node *pStore, int x, int k);
+void insertXbeforeK(node* &pStore, int x, int k);
+void deleteFirstX(node* &pStore, int x);
+void deleteAllX(node* &pStore, int x);
 
 int main() {
 
@@ -76,25 +78,69 @@ void insertXafterK(node *pStore, int x, int k) {
     return;
     
 }
-
 void insertXbeforeK(node *&pStore, int x, int k) {
-    node* prev = nullptr;
+    if (pStore == nullptr) return;
+
+    if (pStore->val == k) {
+        node* newNode = new node;
+        newNode->val = x;
+        newNode->pNxt = pStore;
+        pStore = newNode;
+        return;
+    }
+
     node* cur = pStore;
-    while (cur != nullptr && cur->val != k) {
-        prev = cur;
+    while (cur->pNxt != nullptr && cur->pNxt->val != k) 
+        cur = cur->pNxt;
+
+    if (cur->pNxt == nullptr) return;
+
+    node* nxt = new node;
+    nxt->val = x;
+    nxt->pNxt = cur->pNxt;
+    cur->pNxt = nxt;
+}
+
+void deleteFirstX(node* &pStore, int x) {
+    if (pStore == nullptr) return;
+    if (pStore->val == x) {
+        node* tmp = pStore;
+        pStore = pStore->pNxt;
+        delete(tmp);
+        return;
+    }
+
+    node* cur = pStore;
+    while (cur->pNxt != nullptr) {
+        if (cur->pNxt->val == x) {
+            node* tmp = cur->pNxt;
+            cur->pNxt = tmp->pNxt;
+            delete(tmp);
+            return;
+        }
+        cur = cur->pNxt;
+    }
+}
+
+void deleteAllX(node* &pStore, int x) {
+    if (pStore == nullptr) return;
+
+    node* cur = pStore->pNxt;
+    while (cur) {
+        while (cur && cur->val == x) {
+            node* tmp = cur->pNxt;
+            delete(cur);
+            cur = tmp;
+        }
+
+        if (cur == nullptr) break;
+
         cur = cur->pNxt;
     }
 
-    if (cur == nullptr) return;
-    
-    if (prev == nullptr) {
-        prev = new node;
-        pStore = prev;
-    } else {
-        prev->pNxt = new node;
-        prev = prev->pNxt;
+    if (pStore->val == x) {
+        node* tmp = pStore;
+        pStore = pStore->pNxt;
+        delete(tmp);
     }
-
-    prev->val = x;
-    prev->pNxt = cur;
 }
