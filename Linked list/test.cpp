@@ -7,6 +7,23 @@ struct node {
     node* pNxt;
 };
 
+void inputStore(node* &pStore);
+void displayStore(node* pStore);
+void deleteStore(node* pStore);
+void insertStore(node *pStore, int x, int k);
+
+int main() {
+
+    node* store = NULL;
+    
+    inputStore(store);
+
+    insertStore(store, 10, 4);
+    displayStore(store);
+    deleteStore(store);
+    return 0;
+}
+
 void inputStore(node* &pStore) {
     node* cur = pStore;
 
@@ -14,19 +31,17 @@ void inputStore(node* &pStore) {
     while (cin >> inp) {
         if (inp == 0) break;
         if (cur == NULL) {
-            cur = new node;
-            cur->val = inp;
-            cur->pNxt = nullptr;
-            pStore = cur;
-            continue;
+            pStore = new node;
+            cur = pStore;
+        } else {
+            cur->pNxt = new node;
+            cur = cur->pNxt;
         }
-
-        cur->pNxt = new node;
-        cur = cur->pNxt;
 
         cur->pNxt = NULL;
         cur->val = inp;
     }
+
 }
 
 void displayStore(node* pStore) {
@@ -45,13 +60,18 @@ void deleteStore(node* pStore) {
         pStore = tmp;
     }
 }
+void insertStore(node *pStore, int x, int k) {
+    while (pStore != nullptr) {
+        if (pStore->val == k) {
+            node *tmp = pStore->pNxt;
+            pStore->pNxt = new node;
+            pStore->pNxt->val = x;
+            pStore->pNxt->pNxt = tmp;
+            return;
+        }
 
-
-int main() {
-
-    node* store = NULL;
-    inputStore(store);
-    displayStore(store);
-    deleteStore(store);
-    return 0;
+        pStore = pStore->pNxt;
+    }
+    return;
+    
 }
