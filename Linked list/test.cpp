@@ -10,7 +10,8 @@ struct node {
 void inputStore(node* &pStore);
 void displayStore(node* pStore);
 void deleteStore(node* pStore);
-void insertStore(node *pStore, int x, int k);
+void insertXafterK(node *pStore, int x, int k);
+void insertXbeforeK(node *pStore, int x, int k);
 
 int main() {
 
@@ -18,7 +19,7 @@ int main() {
     
     inputStore(store);
 
-    insertStore(store, 10, 4);
+    insertXafterK(store, 10, 4);
     displayStore(store);
     deleteStore(store);
     return 0;
@@ -60,18 +61,40 @@ void deleteStore(node* pStore) {
         pStore = tmp;
     }
 }
-void insertStore(node *pStore, int x, int k) {
+void insertXafterK(node *pStore, int x, int k) {
     while (pStore != nullptr) {
         if (pStore->val == k) {
             node *tmp = pStore->pNxt;
             pStore->pNxt = new node;
-            pStore->pNxt->val = x;
-            pStore->pNxt->pNxt = tmp;
+            pStore = pStore->pNxt;
+            pStore->val = x;
+            pStore->pNxt = tmp;
             return;
         }
-
         pStore = pStore->pNxt;
     }
     return;
     
+}
+
+void insertXbeforeK(node *&pStore, int x, int k) {
+    node* prev = nullptr;
+    node* cur = pStore;
+    while (cur != nullptr && cur->val != k) {
+        prev = cur;
+        cur = cur->pNxt;
+    }
+
+    if (cur == nullptr) return;
+    
+    if (prev == nullptr) {
+        prev = new node;
+        pStore = prev;
+    } else {
+        prev->pNxt = new node;
+        prev = prev->pNxt;
+    }
+
+    prev->val = x;
+    prev->pNxt = cur;
 }
