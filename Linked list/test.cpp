@@ -14,6 +14,7 @@ void insertXafterK(node *pStore, int x, int k);
 void insertXbeforeK(node* &pStore, int x, int k);
 void deleteFirstX(node* &pStore, int x);
 void deleteAllX(node* &pStore, int x);
+void reverseList(node* &pStore);
 
 int main() {
 
@@ -48,6 +49,10 @@ void inputStore(node* &pStore) {
 }
 
 void displayStore(node* pStore) {
+    if (pStore == nullptr) {
+        cout << "The list cotains no element\n";
+        return;
+    }
     while (pStore) {
         cout << pStore->val << ' ';
         pStore = pStore->pNxt;
@@ -123,24 +128,43 @@ void deleteFirstX(node* &pStore, int x) {
 }
 
 void deleteAllX(node* &pStore, int x) {
-    if (pStore == nullptr) return;
 
-    node* cur = pStore->pNxt;
+    node* cur = pStore;
+    node* pre = nullptr;
+
     while (cur) {
+        
         while (cur && cur->val == x) {
-            node* tmp = cur->pNxt;
+            node *tmp = cur->pNxt;
+            if (pre)
+                pre->pNxt = tmp;
+            else 
+                pStore = tmp;
+
             delete(cur);
             cur = tmp;
         }
 
         if (cur == nullptr) break;
-
+        pre = cur;
         cur = cur->pNxt;
     }
+}
 
-    if (pStore->val == x) {
-        node* tmp = pStore;
-        pStore = pStore->pNxt;
-        delete(tmp);
+void reverseList(node* &pStore) {
+    node* cur = pStore;
+    node* pre = pStore;
+
+    if (cur == nullptr) return;
+    cur = cur->pNxt;
+    
+    while (cur) {
+        node* tmp = cur->pNxt;
+        cur->pNxt = pre;
+        pre = cur;
+        cur = tmp;
     }
+
+    pStore->pNxt = nullptr;
+    pStore = pre;
 }

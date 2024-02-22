@@ -1,0 +1,7908 @@
+<tbody>
+	
+		
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 1</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>McCallum Congregation of Jehovah's Witnesses, Abbotsford, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764338513RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ABBOTSFORD</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>25&nbsp;032,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 2</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Clayburn Congregation of Jehovah's Witnesses, Abbotsford, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766177281RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ABBOTSFORD</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>35&nbsp;190,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 3</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mt. Lehman Congregation of Jehovah's Witnesses, Abbotsford,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764937488RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ABBOTSFORD</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>25&nbsp;590,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 4</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Agassiz Congregation of Jehovah's Witnesses, Agassiz, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765839311RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>AGASSIZ</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>17&nbsp;920,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 5</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Aldergrove Congregation of Jehovah's Witnesses, Aldergrove,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765273115RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ALDERGROVE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>31&nbsp;735,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 6</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Barriere Congregation of Jehovah's Witnesses, Barriere, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765953880RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>BARRIERE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>12&nbsp;280,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 7</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Spanish Congregation of Jehovah's Witnesses, Abbotsford, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>757936513RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ABBOTSFORD</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>13&nbsp;425,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 8</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Beaver Valley Congregation of Jehovah's Witnesses, Fruitvale</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>744361114RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>FRUITVALE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>18&nbsp;474,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 9</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Punjabi Congregation of Jehovah's Witnesses, Abbotsford, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765978481RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ABBOTSFORD</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>9&nbsp;838,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 10</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Fraser Valley Tagalog Congregation of Jehovah's Witnesses, A</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>723365318RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ABBOTSFORD</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>10&nbsp;560,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 11</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Burns Lake Congregation of Jehovah's Witnesses, Burns Lake,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765956081RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>BURNS LAKE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>4&nbsp;975,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 12</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Harbour View Congregation of Jehovah's Witnesses, Campbell R</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765965280RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CAMPBELL RIVER</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>43&nbsp;775,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 13</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Oceanside Congregation of Jehovah's Witnesses, Campbell Rive</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765605712RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CAMPBELL RIVER</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>38&nbsp;325,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 14</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Castlegar Congregation of Jehovah's Witnesses, Castlegar, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766197883RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CASLEGAR</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>22&nbsp;489,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 15</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Chase Congregation of Jehovah's Witnesses, Chase, British Co</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766167886RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CHASE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>10&nbsp;270,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 16</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Chetwynd Congregation of Jehovah's Witnesses, Chetwynd, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766252480RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CHETWYND</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>7&nbsp;780,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 17</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>North Congregation of Jehovah's Witnesses, Chilliwack, Briti</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>759020084RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CHILLIWACK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>23&nbsp;709,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 18</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Sardis Congregation of Jehovah's Witnesses, Chilliwack, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765365317RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CHILLIWACK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>21&nbsp;265,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 19</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>South Congregation of Jehovah's Witnesses, Chilliwack, Briti</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764344115RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CHILLIWACK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>26&nbsp;329,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 20</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>West Congregation of Jehovah's Witnesses, Chilliwack, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766225288RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CHILLIWACK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>17&nbsp;588,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 21</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Clearwater Congregation of Jehovah's Witnesses, Clearwater,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765951082RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CLEARWATER</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>12&nbsp;690,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 22</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Comox Congregation of Jehovah's Witnesses, Courtenay, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766160485RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>COMOX</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>29&nbsp;142,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 23</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Riverside Congregation of Jehovah's Witnesses, Courtenay, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765575915RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>COMOX</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>40&nbsp;595,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 24</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mount Baker Congregation of Jehovah's Witnesses, Cranbrook,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765977681RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CRANBROOK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>25&nbsp;645,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 25</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mount Fisher Congregation of Jehovah's Witnesses, Cranbrook,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765390117RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CRANBROOK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>28&nbsp;373,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 26</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mountain View Congregation of Jehovah's Witnesses, Creston,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764935680RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>CRESTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>21&nbsp;995,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 27</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Parkhill Congregation of Jehovah's Witnesses, Dawson Creek,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766257489RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>DAWSON CREEK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>12&nbsp;330,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 28</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Willowbrook Congregation of Jehovah's Witnesses, Dawson Cree</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765664115RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PEACE RIVER REGIONAL DISTRICT</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>19&nbsp;710,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 29</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Maple Mountain Congregation of Jehovah's Witnesses, Duncan,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765289715RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>DUNCAN</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>26&nbsp;701,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 30</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Cowichan Valley Congregation of Jehovah's Witnesses, Duncan,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764977088RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>DUNCAN</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>32&nbsp;615,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 31</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Enderby Congregation of Jehovah's Witnesses, Enderby, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>744228313RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ENDERBY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>15&nbsp;130,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 32</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Fernie Congregation of Jehovah's Witnesses, Fernie, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766194286RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>FERNIE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>20&nbsp;735,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 33</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Fort Nelson Congregation of Jehovah's Witnesses, Fort Nelson</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>744228719RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>FORT NELSON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>2&nbsp;074,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 34</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Fort St James Congregation of Jehovah's Witnesses, Fort St.</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>745526483RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>FORT ST. JAMES</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>1&nbsp;525,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 35</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Peace View Congregation of Jehovah's Witnesses, Fort St. Joh</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766233688RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>FORT ST. JOHN</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>21&nbsp;090,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 36</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Gibsons Congregation of Jehovah's Witnesses, Gibsons, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765385315RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>ROBERTS CREEK</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;675,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 37</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Golden Congregation of Jehovah's Witnesses, Golden, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>759014087RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>GOLDEN</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>14&nbsp;445,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 38</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mountain View Congregation of Jehovah's Witnesses, Fort St.</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765972484RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>FORT ST. JOHN</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>13&nbsp;110,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 39</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Grand Forks Congregation of Jehovah's Witnesses, Grand Forks</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766181085RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>GRAND FORKS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;736,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 40</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Hope Congregation of Jehovah's Witnesses, Hope, British Colu</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765369913RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>HOPE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>16&nbsp;431,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 41</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Houston Congregation of Jehovah's Witnesses, Houston, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765964481RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>HOUSTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>12&nbsp;062,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 42</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Invermere Congregation of Jehovah's Witnesses, Invermere, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765891288RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>RADIUM HOT SPRINGS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>34&nbsp;145,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 43</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Aberdeen Congregation of Jehovah's Witnesses, Kamloops, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765975487RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KAMLOOPS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>26&nbsp;223,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 44</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Brocklehurst Congregation of Jehovah's Witnesses, Kamloops,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766254080RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KAMLOOPS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;712,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 45</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Leigh Congregation of Jehovah's Witnesses, Kamloops, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765656913RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KAMLOOPS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>22&nbsp;420,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 46</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>North Thompson Congregation of Jehovah's Witnesses, Kamloops</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764314316RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KAMLOOPS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>13&nbsp;299,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 47</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>South Thompson Congregation of Jehovah's Witnesses, Kamloops</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>758230916RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KAMLOOPS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;452,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 48</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Westsyde Congregation of Jehovah's Witnesses, Kamloops, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766395685RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KAMLOOPS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;682,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 49</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Black Mountain Congregation of Jehovah's Witnesses, Kelowna,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>759018880RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>21&nbsp;077,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 50</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Glenmore Congregation of Jehovah's Witnesses, Kelowna, Briti</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765969084RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;750,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 51</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Lakeshore Congregation of Jehovah's Witnesses, Kelowna, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>759017080RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>25&nbsp;310,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 52</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mission Creek Congregation of Jehovah's Witnesses, Kelowna,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766248280RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>22&nbsp;935,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 53</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Spring Valley Congregation of Jehovah's Witnesses, Kelowna,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765642913RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>23&nbsp;634,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 54</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mountainview Congregation of Jehovah's Witnesses, Kelowna, B</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765644117RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>29&nbsp;489,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 55</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Okanagan Lake Tagalog Congregation of Jehovah's Witnesses, K</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766423487RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KELOWNA</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>12&nbsp;348,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 56</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Kimberley Congregation of Jehovah's Witnesses, Kimberley, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>745343087RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KIMBERLEY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>18&nbsp;685,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 57</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Kitimat Congregation of Jehovah's Witnesses, Kitimat, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765863485RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>KITIMAT</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>16&nbsp;964,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 58</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mount Hayes Congregation of Jehovah's Witnesses, Ladysmith,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>899935217RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LADYSMITH</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>30&nbsp;299,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 59</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Brookswood Congregation of Jehovah's Witnesses, Langley, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765945886RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LANGLEY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;475,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 60</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Willoughby Congregation of Jehovah's Witnesses, Langley, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765954888RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LANGLEY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;675,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 61</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Murrayville Congregation of Jehovah's Witnesses, Langley, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>731919916RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LANGLEY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>39&nbsp;740,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 62</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Walnut Grove Congregation of Jehovah's Witnesses, Langley, B</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765289517RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LANGLEY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>31&nbsp;459,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 63</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Lillooet Congregation of Jehovah's Witnesses, Lillooet, Brit</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766164883RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LILLOOET</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>5&nbsp;800,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 64</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Lumby Congregation of Jehovah's Witnesses, Lumby, British Co</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765361712RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>LUMBY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>8&nbsp;515,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 65</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mackenzie Congregation of Jehovah's Witnesses, Mackenzie, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765681713RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MACKENZIE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>6&nbsp;170,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 66</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Pitt Meadows Congregation of Jehovah's Witnesses, Maple Ridg</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764951281RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PITT MEADOWS</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>32&nbsp;438,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 67</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Kanaka Creek Congregation of Jehovah's Witnesses, Maple Ridg</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764340519RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MAPLE RIDGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>40&nbsp;882,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 68</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Ridgeview Congregation of Jehovah's Witnesses, Maple Ridge,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765867882RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MAPLE RIDGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>23&nbsp;684,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 69</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Masset Congregation of Jehovah's Witnesses, Masset, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>744223710RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MASSET</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+											<strong>697,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>8&nbsp;800,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 70</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Merritt Congregation of Jehovah's Witnesses, Merritt, Britis</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765362918RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MERRITT</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;750,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 71</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Cobble Hill Congregation of Jehovah's Witnesses, Cobble Hill</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765608518RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>SHAWINGAN LAKE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>38&nbsp;884,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 72</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Cascade Falls Congregation of Jehovah's Witnesses, Mission,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765964689RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MISSION</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>29&nbsp;138,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 73</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Silvermere Congregation of Jehovah's Witnesses, Mission, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766236087RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>MISSION</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;055,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 74</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Nakusp Congregation of Jehovah's Witnesses, Nakusp, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766251284RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NAKUSP</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>13&nbsp;675,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 75</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Bowen Park Congregation of Jehovah's Witnesses, Nanaimo, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766253884RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NANAIMO</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>36&nbsp;573,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 76</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Mountain View Congregation of Jehovah's Witnesses, Nanaimo,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766247084RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NANAIMO</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>29&nbsp;686,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 77</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Bay View Congregation of Jehovah's Witnesses, Nanaimo, Briti</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765367313RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NANAIMO</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>32&nbsp;255,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 78</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Chase River Congregation of Jehovah's Witnesses, Nanaimo, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764969887RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NANAIMO</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>30&nbsp;023,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 79</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Linley Valley Congregation of Jehovah's Witnesses, Nanaimo,</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764900288RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NANAIMO</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>32&nbsp;561,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 80</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Nelson Congregation of Jehovah's Witnesses, Nelson, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765810916RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NELSON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>19&nbsp;019,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 81</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>New Hazelton Congregation of Jehovah's Witnesses, New Hazelt</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765297114RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>SOUTH HAZELTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>7&nbsp;560,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 82</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Oliver Congregation of Jehovah's Witnesses, Oliver, British</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765895289RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>OLIVER</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>33&nbsp;785,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 83</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>100 Mile House Congregation of Jehovah's Witnesses, 100 Mile</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765886288RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>100 MILE HOUSE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;141,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 84</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Seaside Congregation of Jehovah's Witnesses, Parksville, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766245484RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>NANOOSE BAY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>20&nbsp;526,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 85</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Pemberton Congregation of Jehovah's Witnesses, Pemberton, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765966486RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PEMBERTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>13&nbsp;030,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 86</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Green Mountain Congregation of Jehovah's Witnesses, Penticto</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765974282RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PENTICTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>29&nbsp;284,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 87</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Redlands Congregation of Jehovah's Witnesses, Penticton, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765682919RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PENTICTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>28&nbsp;255,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 88</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Valleyview Congregation of Jehovah's Witnesses, Penticton, B</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>764344917RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PENTICTON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>32&nbsp;211,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 89</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Bayside Congregation of Jehovah's Witnesses, Port Alberni, B</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>759032683RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PORT ALBERNI</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>25&nbsp;824,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 90</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Valleyview Congregation of Jehovah's Witnesses, Port Alberni</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765382510RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PORT ALBERNI</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>18&nbsp;135,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 91</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>North Island Congregation of Jehovah's Witnesses, Port Hardy</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766163083RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PORT HARDY</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>15&nbsp;555,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 92</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Powell Lake Congregation of Jehovah's Witnesses, Powell Rive</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765282710RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>POWELL RIVER</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>27&nbsp;500,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 93</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>South Congregation of Jehovah's Witnesses, Powell River, Bri</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>744362310RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>POWELL RIVER</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;585,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 94</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Fraser Congregation of Jehovah's Witnesses, Prince George, B</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765967484RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCE GEORGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>39&nbsp;183,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 95</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>East Hart Congregation of Jehovah's Witnesses, Prince George</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765978283RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCE GEORGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>25&nbsp;360,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 96</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Spruceland Congregation of Jehovah's Witnesses, Prince Georg</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>766253280RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCE GEORGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>22&nbsp;172,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 97</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>West Hart Congregation of Jehovah's Witnesses, Prince George</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765679113RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCE GEORGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>24&nbsp;871,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 98</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Vanway Congregation of Jehovah's Witnesses, Prince George, B</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765389911RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCE GEORGE</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>37&nbsp;277,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 99</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Prince Rupert Congregation of Jehovah's Witnesses, Prince Ru</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>765267513RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCE RUPERT</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>6&nbsp;435,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+					<tr>
+						<td>
+						<h2 class="h4">Qualified donee  # 100</h2>
+						<div class="mrgn-lft-xl">
+							<ul class="list-unstyled">
+								
+								<li>
+									<div>Name of organization:
+									
+										
+											<strong>Princeton Congregation of Jehovah's Witnesses, Princeton, Br</strong>
+										
+									</div>
+								</li>				
+								
+								<li>
+									<div>
+										Associated charity:
+									
+										
+											<strong>Oui</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Business number/Registration number:
+										
+											<strong>745339283RR0001</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										City:
+									
+										
+											<strong>PRINCETON</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Province/Territory: 
+									
+										
+											<strong>BC</strong>
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Amounts of non-cash gifts: 
+									
+										
+									</div>
+								</li>
+								
+								<li>
+									<div>
+										Total amount of gifts:
+									
+										
+											<strong>21&nbsp;415,00  $CAN</strong>
+										
+									</div>
+								</li>
+								
+							</ul>
+						</div>
+				
+						</td>
+						
+					</tr>
+				
+			
+							
+	</tbody>
