@@ -6,9 +6,10 @@ struct DNode
     DNode* pPrev, *pNext;
 };
 
-void inputList(DNode* &head, int &n);
+void inputList(DNode* &head);
 void insertAtBeginning(DNode* &pDH, int x);
-void insertAfterK(DNode* &pDH, int x, int k);
+void insertAfterK(DNode* pDH, int x, int k);
+void insertBeforeK(DNode* pDH, int x, int k);
 void outputList(DNode *head);
 
 int main() {
@@ -16,7 +17,7 @@ int main() {
     DNode* head;
     int n;
 
-    inputList(head, n);
+    inputList(head);
 
     return 0;
 }
@@ -53,6 +54,7 @@ void insertAtBeginning(DNode* &pDH, int x) {
 
     if (pDH != nullptr)
         pDH->pPrev = newNode;
+
     pDH = newNode;
 }
 
@@ -74,6 +76,28 @@ void insertAfterK(DNode* pDH, int x, int k) {
         cur->pNext->pPrev = newNode;
 
     cur->pNext = newNode;
+}
+
+void insertBeforeK(DNode* &pDH, int x, int k) {
+    if (pDH == nullptr) return;
+    DNode* cur = pDH;
+    while (cur != nullptr && cur->data != k) {
+        cur = cur->pNext;
+    }
+
+    if (cur == nullptr) return;
+
+    DNode* newNode = new DNode;
+    newNode->data = x;
+    newNode->pNext = cur;
+    newNode->pPrev = cur->pPrev;
+
+    if (cur->pPrev)
+        cur->pPrev->pNext = newNode;
+    else
+        pDH = newNode;
+
+    cur->pPrev = newNode;
 }
 
 void outputList(DNode *head) {
