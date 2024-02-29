@@ -1,0 +1,1 @@
+void addOne(int *ptrNum);
